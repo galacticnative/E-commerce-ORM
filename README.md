@@ -15,6 +15,11 @@ Ensure packages are installed after git cloning the repo. Type the following int
 ## Usage
 To begin interacting with the ecommerce_db, you will go to the command line in the root directory of the repo, and type "node server.js" or "node server" and from there, open Insomnia Core to interact with GET, POST, PUT and DELETE.
 
+![picture](./ecommerceORM.png)
+
+## Link to demo video:
+https://drive.google.com/file/d/1cm4h5th1XV-erThIFrT-qVcTI7zp7EFr/view
+
 ## Credits
 UofA Coding Bootcamp starter code
 
